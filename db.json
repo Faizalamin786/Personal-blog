@@ -1,0 +1,36 @@
+{
+  "blogs": [
+    {
+      "id": "adfb",
+      "category": "Entertainment",
+      "title": "Spotify App ",
+      "blogger_name": "Faizal",
+      "image": "https://images.unsplash.com/photo-1614680376593-902f74cf0d41?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Spotify offers digital copyright restricted recorded audio content, including over 100 million songs and 7 million podcast titles, from record labels and media companies.[5] Operating as a freemium service, the basic features are free with advertisements and limited control, while additional features, such as offline listening and commercial-free listening, are offered via paid subscriptions. Users can search for music based on artist, album, or genre, and can create, edit, and share playlists. It offers some social media features such as messaging, creating profiles, following friends, shared playlists, and creating listening parties called \"Jams.\""
+    },
+    {
+      "id": "9f00",
+      "category": "Technology",
+      "title": "Laptop",
+      "blogger_name": "Neha",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wfGVufDB8fDB8fHww",
+      "description": "Laptops are used in a variety of settings, such as at work (especially on business trips), in education, for playing games, content creating, web browsing, for personal multimedia, and for general home computer use. They can be powered using either continuous wall power or a rechargeable battery, and can be folded shut for convenient storage and transportation, making them suitable for mobile use.[3] Laptops feature all the standard input and output components of a desktop computer in a single compact unit, including a display screen (usually 11–17 in or 280–430 mm in diagonal size), speakers, a keyboard, and a pointing device (usually a trackpad). Hardware specifications vary significantly between different types, models, and price points."
+    },
+    {
+      "id": "1b07",
+      "category": "Sports",
+      "title": "Cricket",
+      "blogger_name": "Sachin",
+      "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Cricket is a bat-and-ball game that is played between two teams of eleven players on a field, at the centre of which is a 22-yard (20-metre; 66-foot) pitch with a wicket at each end, each comprising two bails (small sticks) balanced on three stumps. Two players from the batting team, the striker and nonstriker, stand in front of either wicket holding bats, while one player from the fielding team, the bowler, bowls the ball toward the striker's wicket from the opposite end of the pitch. The striker's goal is to hit the bowled ball with the bat and then switch places with the nonstriker, with the batting team scoring one run for each of these swaps. Runs are also scored when the ball reaches the boundary of the field or when the ball is bowled illegally."
+    },
+    {
+      "id": "45e4",
+      "category": "Health",
+      "title": "diabties",
+      "blogger_name": "Dr. sushant",
+      "image": "https://plus.unsplash.com/premium_photo-1658506671316-0b293df7c72b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Diabetes mellitus, commonly known as diabetes, is a group of common endocrine diseases characterized by sustained high blood sugar levels.[10][11] Diabetes is due to either the pancreas not producing enough of the hormone insulin or the cells of the body becoming unresponsive to insulin's effects.[12] Classic symptoms include the three Ps: polydipsia (excessive thirst), polyuria (excessive urination), polyphagia (excessive hunger), weight loss, and blurred vision. If left untreated, the disease can lead to various health complications, including disorders of the cardiovascular system, eye, kidney, and nerves.[3] Diabetes accounts for approximately 4.2 million deaths every year,[9] with an estimated 1.5 million caused by either untreated or poorly treated diabetes.[10]"
+    }
+  ]
+}
